@@ -40,7 +40,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 126,
     Incorrectas: 45,
     Porcentaje_Error: "35.71%",
@@ -49,7 +49,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 168,
     Incorrectas: 58,
     Porcentaje_Error: "34.52%",
@@ -58,7 +58,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 210,
     Incorrectas: 88,
     Porcentaje_Error: "41.9%",
@@ -67,7 +67,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 126,
     Incorrectas: 25,
     Porcentaje_Error: "19.84%",
@@ -76,7 +76,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 126,
     Incorrectas: 44,
     Porcentaje_Error: "34.92%",
@@ -85,7 +85,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 126,
     Incorrectas: 59,
     Porcentaje_Error: "46.83%",
@@ -94,7 +94,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 210,
     Incorrectas: 85,
     Porcentaje_Error: "40.48%",
@@ -103,7 +103,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 336,
     Incorrectas: 90,
     Porcentaje_Error: "26.79%",
@@ -130,7 +130,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 336,
     Incorrectas: 114,
     Porcentaje_Error: "33.93%",
@@ -139,7 +139,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 210,
     Incorrectas: 91,
     Porcentaje_Error: "43.33%",
@@ -148,7 +148,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 210,
     Incorrectas: 52,
     Porcentaje_Error: "24.76%",
@@ -157,7 +157,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 126,
     Incorrectas: 76,
     Porcentaje_Error: "60.32%",
@@ -166,7 +166,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 168,
     Incorrectas: 83,
     Porcentaje_Error: "49.4%",
@@ -175,7 +175,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ADMINISTRACION",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 210,
     Incorrectas: 98,
     Porcentaje_Error: "46.67%",
@@ -220,7 +220,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 315,
     Incorrectas: 161,
     Porcentaje_Error: "51.11%",
@@ -229,7 +229,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 252,
     Incorrectas: 95,
     Porcentaje_Error: "37.7%",
@@ -238,7 +238,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 315,
     Incorrectas: 161,
     Porcentaje_Error: "51.11%",
@@ -247,7 +247,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 189,
     Incorrectas: 69,
     Porcentaje_Error: "36.51%",
@@ -256,7 +256,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 189,
     Incorrectas: 114,
     Porcentaje_Error: "60.32%",
@@ -265,7 +265,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 441,
     Incorrectas: 308,
     Porcentaje_Error: "69.84%",
@@ -274,7 +274,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 252,
     Incorrectas: 99,
     Porcentaje_Error: "39.29%",
@@ -283,7 +283,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 252,
     Incorrectas: 114,
     Porcentaje_Error: "45.24%",
@@ -310,7 +310,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 252,
     Incorrectas: 109,
     Porcentaje_Error: "43.25%",
@@ -319,7 +319,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 189,
     Incorrectas: 87,
     Porcentaje_Error: "46.03%",
@@ -328,7 +328,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 252,
     Incorrectas: 78,
     Porcentaje_Error: "30.95%",
@@ -337,7 +337,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 378,
     Incorrectas: 218,
     Porcentaje_Error: "57.67%",
@@ -346,7 +346,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 252,
     Incorrectas: 150,
     Porcentaje_Error: "59.52%",
@@ -355,7 +355,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AGRONOMICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 315,
     Incorrectas: 186,
     Porcentaje_Error: "59.05%",
@@ -400,7 +400,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 183,
     Incorrectas: 100,
     Porcentaje_Error: "54.64%",
@@ -409,7 +409,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 244,
     Incorrectas: 104,
     Porcentaje_Error: "42.62%",
@@ -418,7 +418,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 305,
     Incorrectas: 171,
     Porcentaje_Error: "56.07%",
@@ -427,7 +427,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 183,
     Incorrectas: 61,
     Porcentaje_Error: "33.33%",
@@ -436,7 +436,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 183,
     Incorrectas: 99,
     Porcentaje_Error: "54.1%",
@@ -445,7 +445,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 183,
     Incorrectas: 129,
     Porcentaje_Error: "70.49%",
@@ -454,7 +454,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 305,
     Incorrectas: 167,
     Porcentaje_Error: "54.75%",
@@ -463,7 +463,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 488,
     Incorrectas: 244,
     Porcentaje_Error: "50%",
@@ -490,7 +490,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 488,
     Incorrectas: 271,
     Porcentaje_Error: "55.53%",
@@ -499,7 +499,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 305,
     Incorrectas: 180,
     Porcentaje_Error: "59.02%",
@@ -508,7 +508,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 305,
     Incorrectas: 141,
     Porcentaje_Error: "46.23%",
@@ -517,7 +517,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 183,
     Incorrectas: 134,
     Porcentaje_Error: "73.22%",
@@ -526,7 +526,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 244,
     Incorrectas: 173,
     Porcentaje_Error: "70.9%",
@@ -535,7 +535,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ANTROPOLOGIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 305,
     Incorrectas: 205,
     Porcentaje_Error: "67.21%",
@@ -580,7 +580,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 530,
     Incorrectas: 268,
     Porcentaje_Error: "50.57%",
@@ -589,7 +589,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 424,
     Incorrectas: 183,
     Porcentaje_Error: "43.16%",
@@ -598,7 +598,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 530,
     Incorrectas: 243,
     Porcentaje_Error: "45.85%",
@@ -607,7 +607,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 318,
     Incorrectas: 140,
     Porcentaje_Error: "44.03%",
@@ -616,7 +616,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 318,
     Incorrectas: 161,
     Porcentaje_Error: "50.63%",
@@ -625,7 +625,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 742,
     Incorrectas: 423,
     Porcentaje_Error: "57.01%",
@@ -634,7 +634,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 424,
     Incorrectas: 185,
     Porcentaje_Error: "43.63%",
@@ -643,7 +643,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 424,
     Incorrectas: 202,
     Porcentaje_Error: "47.64%",
@@ -670,7 +670,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 424,
     Incorrectas: 142,
     Porcentaje_Error: "33.49%",
@@ -679,7 +679,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 318,
     Incorrectas: 141,
     Porcentaje_Error: "44.34%",
@@ -688,7 +688,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 424,
     Incorrectas: 115,
     Porcentaje_Error: "27.12%",
@@ -697,7 +697,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 636,
     Incorrectas: 348,
     Porcentaje_Error: "54.72%",
@@ -706,7 +706,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 424,
     Incorrectas: 229,
     Porcentaje_Error: "54.01%",
@@ -715,7 +715,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "ARQUITECTURA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 530,
     Incorrectas: 306,
     Porcentaje_Error: "57.74%",
@@ -760,7 +760,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 150,
     Incorrectas: 82,
     Porcentaje_Error: "54.67%",
@@ -769,7 +769,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 200,
     Incorrectas: 93,
     Porcentaje_Error: "46.5%",
@@ -778,7 +778,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 250,
     Incorrectas: 146,
     Porcentaje_Error: "58.4%",
@@ -787,7 +787,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 150,
     Incorrectas: 63,
     Porcentaje_Error: "42%",
@@ -796,7 +796,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 150,
     Incorrectas: 95,
     Porcentaje_Error: "63.33%",
@@ -805,7 +805,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 150,
     Incorrectas: 110,
     Porcentaje_Error: "73.33%",
@@ -814,7 +814,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 250,
     Incorrectas: 161,
     Porcentaje_Error: "64.4%",
@@ -823,7 +823,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 400,
     Incorrectas: 229,
     Porcentaje_Error: "57.25%",
@@ -850,7 +850,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 400,
     Incorrectas: 243,
     Porcentaje_Error: "60.75%",
@@ -859,7 +859,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 250,
     Incorrectas: 163,
     Porcentaje_Error: "65.2%",
@@ -868,7 +868,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 250,
     Incorrectas: 132,
     Porcentaje_Error: "52.8%",
@@ -877,7 +877,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 150,
     Incorrectas: 116,
     Porcentaje_Error: "77.33%",
@@ -886,7 +886,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 200,
     Incorrectas: 130,
     Porcentaje_Error: "65%",
@@ -895,7 +895,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - MUSICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 250,
     Incorrectas: 163,
     Porcentaje_Error: "65.2%",
@@ -940,7 +940,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 147,
     Incorrectas: 86,
     Porcentaje_Error: "58.5%",
@@ -949,7 +949,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 196,
     Incorrectas: 94,
     Porcentaje_Error: "47.96%",
@@ -958,7 +958,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 245,
     Incorrectas: 152,
     Porcentaje_Error: "62.04%",
@@ -967,7 +967,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 147,
     Incorrectas: 82,
     Porcentaje_Error: "55.78%",
@@ -976,7 +976,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 147,
     Incorrectas: 83,
     Porcentaje_Error: "56.46%",
@@ -985,7 +985,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 147,
     Incorrectas: 102,
     Porcentaje_Error: "69.39%",
@@ -994,7 +994,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 245,
     Incorrectas: 154,
     Porcentaje_Error: "62.86%",
@@ -1003,7 +1003,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 392,
     Incorrectas: 223,
     Porcentaje_Error: "56.89%",
@@ -1030,7 +1030,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 392,
     Incorrectas: 272,
     Porcentaje_Error: "69.39%",
@@ -1039,7 +1039,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 245,
     Incorrectas: 165,
     Porcentaje_Error: "67.35%",
@@ -1048,7 +1048,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 245,
     Incorrectas: 116,
     Porcentaje_Error: "47.35%",
@@ -1057,7 +1057,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 147,
     Incorrectas: 113,
     Porcentaje_Error: "76.87%",
@@ -1066,7 +1066,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 196,
     Incorrectas: 136,
     Porcentaje_Error: "69.39%",
@@ -1075,7 +1075,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ARTES - PLASTICAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 245,
     Incorrectas: 162,
     Porcentaje_Error: "66.12%",
@@ -1120,7 +1120,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 135,
     Incorrectas: 70,
     Porcentaje_Error: "51.85%",
@@ -1129,7 +1129,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 180,
     Incorrectas: 70,
     Porcentaje_Error: "38.89%",
@@ -1138,7 +1138,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 225,
     Incorrectas: 110,
     Porcentaje_Error: "48.89%",
@@ -1147,7 +1147,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 135,
     Incorrectas: 56,
     Porcentaje_Error: "41.48%",
@@ -1156,7 +1156,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 135,
     Incorrectas: 75,
     Porcentaje_Error: "55.56%",
@@ -1165,7 +1165,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 135,
     Incorrectas: 98,
     Porcentaje_Error: "72.59%",
@@ -1174,7 +1174,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 225,
     Incorrectas: 132,
     Porcentaje_Error: "58.67%",
@@ -1183,7 +1183,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 360,
     Incorrectas: 175,
     Porcentaje_Error: "48.61%",
@@ -1210,7 +1210,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 360,
     Incorrectas: 191,
     Porcentaje_Error: "53.06%",
@@ -1219,7 +1219,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 225,
     Incorrectas: 114,
     Porcentaje_Error: "50.67%",
@@ -1228,7 +1228,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 225,
     Incorrectas: 97,
     Porcentaje_Error: "43.11%",
@@ -1237,7 +1237,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 135,
     Incorrectas: 109,
     Porcentaje_Error: "80.74%",
@@ -1246,7 +1246,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 180,
     Incorrectas: 108,
     Porcentaje_Error: "60%",
@@ -1255,7 +1255,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "BANCA Y SEGUROS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 225,
     Incorrectas: 122,
     Porcentaje_Error: "54.22%",
@@ -1300,7 +1300,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 441,
     Incorrectas: 150,
     Porcentaje_Error: "34.01%",
@@ -1309,7 +1309,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 196,
     Incorrectas: 68,
     Porcentaje_Error: "34.69%",
@@ -1318,7 +1318,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 245,
     Incorrectas: 161,
     Porcentaje_Error: "65.71%",
@@ -1327,7 +1327,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 147,
     Incorrectas: 50,
     Porcentaje_Error: "34.01%",
@@ -1336,7 +1336,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 147,
     Incorrectas: 77,
     Porcentaje_Error: "52.38%",
@@ -1345,7 +1345,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 245,
     Incorrectas: 120,
     Porcentaje_Error: "48.98%",
@@ -1354,7 +1354,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 196,
     Incorrectas: 87,
     Porcentaje_Error: "44.39%",
@@ -1363,7 +1363,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 245,
     Incorrectas: 65,
     Porcentaje_Error: "26.53%",
@@ -1390,7 +1390,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 196,
     Incorrectas: 84,
     Porcentaje_Error: "42.86%",
@@ -1399,7 +1399,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 147,
     Incorrectas: 56,
     Porcentaje_Error: "38.1%",
@@ -1408,7 +1408,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 196,
     Incorrectas: 97,
     Porcentaje_Error: "49.49%",
@@ -1417,7 +1417,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 294,
     Incorrectas: 88,
     Porcentaje_Error: "29.93%",
@@ -1426,7 +1426,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 196,
     Incorrectas: 86,
     Porcentaje_Error: "43.88%",
@@ -1435,7 +1435,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "BIOLOGIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 245,
     Incorrectas: 124,
     Porcentaje_Error: "50.61%",
@@ -1480,7 +1480,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 170,
     Incorrectas: 78,
     Porcentaje_Error: "45.88%",
@@ -1489,7 +1489,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 136,
     Incorrectas: 53,
     Porcentaje_Error: "38.97%",
@@ -1498,7 +1498,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 170,
     Incorrectas: 69,
     Porcentaje_Error: "40.59%",
@@ -1507,7 +1507,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 102,
     Incorrectas: 30,
     Porcentaje_Error: "29.41%",
@@ -1516,7 +1516,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 102,
     Incorrectas: 46,
     Porcentaje_Error: "45.1%",
@@ -1525,7 +1525,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 238,
     Incorrectas: 109,
     Porcentaje_Error: "45.8%",
@@ -1534,7 +1534,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 136,
     Incorrectas: 47,
     Porcentaje_Error: "34.56%",
@@ -1543,7 +1543,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 136,
     Incorrectas: 52,
     Porcentaje_Error: "38.24%",
@@ -1570,7 +1570,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 136,
     Incorrectas: 28,
     Porcentaje_Error: "20.59%",
@@ -1579,7 +1579,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 102,
     Incorrectas: 46,
     Porcentaje_Error: "45.1%",
@@ -1588,7 +1588,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 136,
     Incorrectas: 26,
     Porcentaje_Error: "19.12%",
@@ -1597,7 +1597,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 204,
     Incorrectas: 96,
     Porcentaje_Error: "47.06%",
@@ -1606,7 +1606,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 136,
     Incorrectas: 70,
     Porcentaje_Error: "51.47%",
@@ -1615,7 +1615,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "CIENCIA DE LA COMPUTACION",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 170,
     Incorrectas: 78,
     Porcentaje_Error: "45.88%",
@@ -1660,7 +1660,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 168,
     Incorrectas: 90,
     Porcentaje_Error: "53.57%",
@@ -1669,7 +1669,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 224,
     Incorrectas: 81,
     Porcentaje_Error: "36.16%",
@@ -1678,7 +1678,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 280,
     Incorrectas: 159,
     Porcentaje_Error: "56.79%",
@@ -1687,7 +1687,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 168,
     Incorrectas: 68,
     Porcentaje_Error: "40.48%",
@@ -1696,7 +1696,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 168,
     Incorrectas: 94,
     Porcentaje_Error: "55.95%",
@@ -1705,7 +1705,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 168,
     Incorrectas: 112,
     Porcentaje_Error: "66.67%",
@@ -1714,7 +1714,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 280,
     Incorrectas: 149,
     Porcentaje_Error: "53.21%",
@@ -1723,7 +1723,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 448,
     Incorrectas: 220,
     Porcentaje_Error: "49.11%",
@@ -1750,7 +1750,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 448,
     Incorrectas: 248,
     Porcentaje_Error: "55.36%",
@@ -1759,7 +1759,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 280,
     Incorrectas: 144,
     Porcentaje_Error: "51.43%",
@@ -1768,7 +1768,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 280,
     Incorrectas: 124,
     Porcentaje_Error: "44.29%",
@@ -1777,7 +1777,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 168,
     Incorrectas: 124,
     Porcentaje_Error: "73.81%",
@@ -1786,7 +1786,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 224,
     Incorrectas: 150,
     Porcentaje_Error: "66.96%",
@@ -1795,7 +1795,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - PERIODISMO",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 280,
     Incorrectas: 199,
     Porcentaje_Error: "71.07%",
@@ -1840,7 +1840,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 327,
     Incorrectas: 151,
     Porcentaje_Error: "46.18%",
@@ -1849,7 +1849,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 436,
     Incorrectas: 172,
     Porcentaje_Error: "39.45%",
@@ -1858,7 +1858,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 545,
     Incorrectas: 269,
     Porcentaje_Error: "49.36%",
@@ -1867,7 +1867,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 327,
     Incorrectas: 111,
     Porcentaje_Error: "33.94%",
@@ -1876,7 +1876,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 327,
     Incorrectas: 171,
     Porcentaje_Error: "52.29%",
@@ -1885,7 +1885,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 327,
     Incorrectas: 232,
     Porcentaje_Error: "70.95%",
@@ -1894,7 +1894,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 545,
     Incorrectas: 293,
     Porcentaje_Error: "53.76%",
@@ -1903,7 +1903,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 872,
     Incorrectas: 395,
     Porcentaje_Error: "45.3%",
@@ -1930,7 +1930,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 872,
     Incorrectas: 463,
     Porcentaje_Error: "53.1%",
@@ -1939,7 +1939,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 545,
     Incorrectas: 276,
     Porcentaje_Error: "50.64%",
@@ -1948,7 +1948,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 545,
     Incorrectas: 193,
     Porcentaje_Error: "35.41%",
@@ -1957,7 +1957,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 327,
     Incorrectas: 248,
     Porcentaje_Error: "75.84%",
@@ -1966,7 +1966,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 436,
     Incorrectas: 272,
     Porcentaje_Error: "62.39%",
@@ -1975,7 +1975,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CIENCIAS DE LA COMUNICACION - RELACIONES PUBLICAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 545,
     Incorrectas: 388,
     Porcentaje_Error: "71.19%",
@@ -2020,7 +2020,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 558,
     Incorrectas: 254,
     Porcentaje_Error: "45.52%",
@@ -2029,7 +2029,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 248,
     Incorrectas: 105,
     Porcentaje_Error: "42.34%",
@@ -2038,7 +2038,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 310,
     Incorrectas: 168,
     Porcentaje_Error: "54.19%",
@@ -2047,7 +2047,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 186,
     Incorrectas: 64,
     Porcentaje_Error: "34.41%",
@@ -2056,7 +2056,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 186,
     Incorrectas: 88,
     Porcentaje_Error: "47.31%",
@@ -2065,7 +2065,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 310,
     Incorrectas: 171,
     Porcentaje_Error: "55.16%",
@@ -2074,7 +2074,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 248,
     Incorrectas: 96,
     Porcentaje_Error: "38.71%",
@@ -2083,7 +2083,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 310,
     Incorrectas: 98,
     Porcentaje_Error: "31.61%",
@@ -2110,7 +2110,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 248,
     Incorrectas: 90,
     Porcentaje_Error: "36.29%",
@@ -2119,7 +2119,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 186,
     Incorrectas: 50,
     Porcentaje_Error: "26.88%",
@@ -2128,7 +2128,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 248,
     Incorrectas: 89,
     Porcentaje_Error: "35.89%",
@@ -2137,7 +2137,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 372,
     Incorrectas: 141,
     Porcentaje_Error: "37.9%",
@@ -2146,7 +2146,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 248,
     Incorrectas: 121,
     Porcentaje_Error: "48.79%",
@@ -2155,7 +2155,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "CIENCIAS DE LA NUTRICION",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 310,
     Incorrectas: 182,
     Porcentaje_Error: "58.71%",
@@ -2200,7 +2200,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 510,
     Incorrectas: 211,
     Porcentaje_Error: "41.37%",
@@ -2209,7 +2209,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 680,
     Incorrectas: 263,
     Porcentaje_Error: "38.68%",
@@ -2218,7 +2218,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 850,
     Incorrectas: 408,
     Porcentaje_Error: "48%",
@@ -2227,7 +2227,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 510,
     Incorrectas: 134,
     Porcentaje_Error: "26.27%",
@@ -2236,7 +2236,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 510,
     Incorrectas: 232,
     Porcentaje_Error: "45.49%",
@@ -2245,7 +2245,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 510,
     Incorrectas: 317,
     Porcentaje_Error: "62.16%",
@@ -2254,7 +2254,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 850,
     Incorrectas: 406,
     Porcentaje_Error: "47.76%",
@@ -2263,7 +2263,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 1360,
     Incorrectas: 467,
     Porcentaje_Error: "34.34%",
@@ -2290,7 +2290,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 1360,
     Incorrectas: 593,
     Porcentaje_Error: "43.6%",
@@ -2299,7 +2299,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 850,
     Incorrectas: 368,
     Porcentaje_Error: "43.29%",
@@ -2308,7 +2308,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 850,
     Incorrectas: 245,
     Porcentaje_Error: "28.82%",
@@ -2317,7 +2317,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 510,
     Incorrectas: 370,
     Porcentaje_Error: "72.55%",
@@ -2326,7 +2326,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 680,
     Incorrectas: 360,
     Porcentaje_Error: "52.94%",
@@ -2335,7 +2335,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "CONTABILIDAD",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 850,
     Incorrectas: 472,
     Porcentaje_Error: "55.53%",
@@ -2380,7 +2380,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 420,
     Incorrectas: 125,
     Porcentaje_Error: "29.76%",
@@ -2389,7 +2389,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 560,
     Incorrectas: 156,
     Porcentaje_Error: "27.86%",
@@ -2398,7 +2398,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 700,
     Incorrectas: 287,
     Porcentaje_Error: "41%",
@@ -2407,7 +2407,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 420,
     Incorrectas: 69,
     Porcentaje_Error: "16.43%",
@@ -2416,7 +2416,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 420,
     Incorrectas: 110,
     Porcentaje_Error: "26.19%",
@@ -2425,7 +2425,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 420,
     Incorrectas: 195,
     Porcentaje_Error: "46.43%",
@@ -2434,7 +2434,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 700,
     Incorrectas: 222,
     Porcentaje_Error: "31.71%",
@@ -2443,7 +2443,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 1120,
     Incorrectas: 233,
     Porcentaje_Error: "20.8%",
@@ -2470,7 +2470,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 1120,
     Incorrectas: 333,
     Porcentaje_Error: "29.73%",
@@ -2479,7 +2479,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 700,
     Incorrectas: 202,
     Porcentaje_Error: "28.86%",
@@ -2488,7 +2488,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 700,
     Incorrectas: 145,
     Porcentaje_Error: "20.71%",
@@ -2497,7 +2497,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 420,
     Incorrectas: 240,
     Porcentaje_Error: "57.14%",
@@ -2506,7 +2506,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 560,
     Incorrectas: 188,
     Porcentaje_Error: "33.57%",
@@ -2515,7 +2515,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "DERECHO",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 700,
     Incorrectas: 276,
     Porcentaje_Error: "39.43%",
@@ -2560,7 +2560,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 510,
     Incorrectas: 228,
     Porcentaje_Error: "44.71%",
@@ -2569,7 +2569,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 680,
     Incorrectas: 244,
     Porcentaje_Error: "35.88%",
@@ -2578,7 +2578,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 850,
     Incorrectas: 401,
     Porcentaje_Error: "47.18%",
@@ -2587,7 +2587,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 510,
     Incorrectas: 144,
     Porcentaje_Error: "28.24%",
@@ -2596,7 +2596,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 510,
     Incorrectas: 223,
     Porcentaje_Error: "43.73%",
@@ -2605,7 +2605,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 510,
     Incorrectas: 289,
     Porcentaje_Error: "56.67%",
@@ -2614,7 +2614,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 850,
     Incorrectas: 370,
     Porcentaje_Error: "43.53%",
@@ -2623,7 +2623,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 1360,
     Incorrectas: 464,
     Porcentaje_Error: "34.12%",
@@ -2650,7 +2650,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 1360,
     Incorrectas: 607,
     Porcentaje_Error: "44.63%",
@@ -2659,7 +2659,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 850,
     Incorrectas: 349,
     Porcentaje_Error: "41.06%",
@@ -2668,7 +2668,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 850,
     Incorrectas: 276,
     Porcentaje_Error: "32.47%",
@@ -2677,7 +2677,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 510,
     Incorrectas: 355,
     Porcentaje_Error: "69.61%",
@@ -2686,7 +2686,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 680,
     Incorrectas: 380,
     Porcentaje_Error: "55.88%",
@@ -2695,7 +2695,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "ECONOMIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 850,
     Incorrectas: 411,
     Porcentaje_Error: "48.35%",
@@ -2740,7 +2740,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 93,
     Incorrectas: 49,
     Porcentaje_Error: "52.69%",
@@ -2749,7 +2749,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 124,
     Incorrectas: 56,
     Porcentaje_Error: "45.16%",
@@ -2758,7 +2758,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 155,
     Incorrectas: 89,
     Porcentaje_Error: "57.42%",
@@ -2767,7 +2767,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 93,
     Incorrectas: 35,
     Porcentaje_Error: "37.63%",
@@ -2776,7 +2776,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 93,
     Incorrectas: 57,
     Porcentaje_Error: "61.29%",
@@ -2785,7 +2785,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 93,
     Incorrectas: 63,
     Porcentaje_Error: "67.74%",
@@ -2794,7 +2794,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 155,
     Incorrectas: 86,
     Porcentaje_Error: "55.48%",
@@ -2803,7 +2803,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 248,
     Incorrectas: 106,
     Porcentaje_Error: "42.74%",
@@ -2830,7 +2830,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 248,
     Incorrectas: 148,
     Porcentaje_Error: "59.68%",
@@ -2839,7 +2839,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 155,
     Incorrectas: 90,
     Porcentaje_Error: "58.06%",
@@ -2848,7 +2848,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 155,
     Incorrectas: 65,
     Porcentaje_Error: "41.94%",
@@ -2857,7 +2857,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 93,
     Incorrectas: 67,
     Porcentaje_Error: "72.04%",
@@ -2866,7 +2866,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 124,
     Incorrectas: 72,
     Porcentaje_Error: "58.06%",
@@ -2875,7 +2875,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CIENCIAS NATURALES",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 155,
     Incorrectas: 105,
     Porcentaje_Error: "67.74%",
@@ -2920,7 +2920,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 84,
     Incorrectas: 34,
     Porcentaje_Error: "40.48%",
@@ -2929,7 +2929,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 112,
     Incorrectas: 39,
     Porcentaje_Error: "34.82%",
@@ -2938,7 +2938,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 140,
     Incorrectas: 72,
     Porcentaje_Error: "51.43%",
@@ -2947,7 +2947,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 84,
     Incorrectas: 25,
     Porcentaje_Error: "29.76%",
@@ -2956,7 +2956,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 84,
     Incorrectas: 32,
     Porcentaje_Error: "38.1%",
@@ -2965,7 +2965,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 84,
     Incorrectas: 54,
     Porcentaje_Error: "64.29%",
@@ -2974,7 +2974,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 140,
     Incorrectas: 60,
     Porcentaje_Error: "42.86%",
@@ -2983,7 +2983,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 224,
     Incorrectas: 61,
     Porcentaje_Error: "27.23%",
@@ -3010,7 +3010,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 224,
     Incorrectas: 116,
     Porcentaje_Error: "51.79%",
@@ -3019,7 +3019,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 140,
     Incorrectas: 50,
     Porcentaje_Error: "35.71%",
@@ -3028,7 +3028,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 140,
     Incorrectas: 39,
     Porcentaje_Error: "27.86%",
@@ -3037,7 +3037,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 84,
     Incorrectas: 66,
     Porcentaje_Error: "78.57%",
@@ -3046,7 +3046,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 112,
     Incorrectas: 55,
     Porcentaje_Error: "49.11%",
@@ -3055,7 +3055,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - CS. SOCIALES",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 140,
     Incorrectas: 91,
     Porcentaje_Error: "65%",
@@ -3100,7 +3100,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 84,
     Incorrectas: 36,
     Porcentaje_Error: "42.86%",
@@ -3109,7 +3109,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 112,
     Incorrectas: 49,
     Porcentaje_Error: "43.75%",
@@ -3118,7 +3118,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 140,
     Incorrectas: 77,
     Porcentaje_Error: "55%",
@@ -3127,7 +3127,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 84,
     Incorrectas: 30,
     Porcentaje_Error: "35.71%",
@@ -3136,7 +3136,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 84,
     Incorrectas: 51,
     Porcentaje_Error: "60.71%",
@@ -3145,7 +3145,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 84,
     Incorrectas: 59,
     Porcentaje_Error: "70.24%",
@@ -3154,7 +3154,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 140,
     Incorrectas: 79,
     Porcentaje_Error: "56.43%",
@@ -3163,7 +3163,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 224,
     Incorrectas: 88,
     Porcentaje_Error: "39.29%",
@@ -3190,7 +3190,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 224,
     Incorrectas: 121,
     Porcentaje_Error: "54.02%",
@@ -3199,7 +3199,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 140,
     Incorrectas: 88,
     Porcentaje_Error: "62.86%",
@@ -3208,7 +3208,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 140,
     Incorrectas: 49,
     Porcentaje_Error: "35%",
@@ -3217,7 +3217,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 84,
     Incorrectas: 62,
     Porcentaje_Error: "73.81%",
@@ -3226,7 +3226,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 112,
     Incorrectas: 68,
     Porcentaje_Error: "60.71%",
@@ -3235,7 +3235,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION FISICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 140,
     Incorrectas: 84,
     Porcentaje_Error: "60%",
@@ -3280,7 +3280,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 84,
     Incorrectas: 34,
     Porcentaje_Error: "40.48%",
@@ -3289,7 +3289,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 112,
     Incorrectas: 40,
     Porcentaje_Error: "35.71%",
@@ -3298,7 +3298,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 140,
     Incorrectas: 73,
     Porcentaje_Error: "52.14%",
@@ -3307,7 +3307,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 84,
     Incorrectas: 24,
     Porcentaje_Error: "28.57%",
@@ -3316,7 +3316,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 84,
     Incorrectas: 48,
     Porcentaje_Error: "57.14%",
@@ -3325,7 +3325,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 84,
     Incorrectas: 52,
     Porcentaje_Error: "61.9%",
@@ -3334,7 +3334,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 140,
     Incorrectas: 71,
     Porcentaje_Error: "50.71%",
@@ -3343,7 +3343,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 224,
     Incorrectas: 88,
     Porcentaje_Error: "39.29%",
@@ -3370,7 +3370,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 224,
     Incorrectas: 103,
     Porcentaje_Error: "45.98%",
@@ -3379,7 +3379,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 140,
     Incorrectas: 75,
     Porcentaje_Error: "53.57%",
@@ -3388,7 +3388,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 140,
     Incorrectas: 41,
     Porcentaje_Error: "29.29%",
@@ -3397,7 +3397,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 84,
     Incorrectas: 56,
     Porcentaje_Error: "66.67%",
@@ -3406,7 +3406,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 112,
     Incorrectas: 71,
     Porcentaje_Error: "63.39%",
@@ -3415,7 +3415,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION INICIAL",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 140,
     Incorrectas: 77,
     Porcentaje_Error: "55%",
@@ -3460,7 +3460,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 84,
     Incorrectas: 26,
     Porcentaje_Error: "30.95%",
@@ -3469,7 +3469,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 112,
     Incorrectas: 35,
     Porcentaje_Error: "31.25%",
@@ -3478,7 +3478,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 140,
     Incorrectas: 64,
     Porcentaje_Error: "45.71%",
@@ -3487,7 +3487,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 84,
     Incorrectas: 19,
     Porcentaje_Error: "22.62%",
@@ -3496,7 +3496,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 84,
     Incorrectas: 34,
     Porcentaje_Error: "40.48%",
@@ -3505,7 +3505,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 84,
     Incorrectas: 50,
     Porcentaje_Error: "59.52%",
@@ -3514,7 +3514,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 140,
     Incorrectas: 51,
     Porcentaje_Error: "36.43%",
@@ -3523,7 +3523,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 224,
     Incorrectas: 68,
     Porcentaje_Error: "30.36%",
@@ -3550,7 +3550,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 224,
     Incorrectas: 90,
     Porcentaje_Error: "40.18%",
@@ -3559,7 +3559,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 140,
     Incorrectas: 75,
     Porcentaje_Error: "53.57%",
@@ -3568,7 +3568,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 140,
     Incorrectas: 36,
     Porcentaje_Error: "25.71%",
@@ -3577,7 +3577,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 84,
     Incorrectas: 58,
     Porcentaje_Error: "69.05%",
@@ -3586,7 +3586,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 112,
     Incorrectas: 56,
     Porcentaje_Error: "50%",
@@ -3595,7 +3595,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - EDUCACION PRIMARIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 140,
     Incorrectas: 84,
     Porcentaje_Error: "60%",
@@ -3640,7 +3640,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 81,
     Incorrectas: 34,
     Porcentaje_Error: "41.98%",
@@ -3649,7 +3649,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 108,
     Incorrectas: 43,
     Porcentaje_Error: "39.81%",
@@ -3658,7 +3658,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 135,
     Incorrectas: 64,
     Porcentaje_Error: "47.41%",
@@ -3667,7 +3667,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 81,
     Incorrectas: 23,
     Porcentaje_Error: "28.4%",
@@ -3676,7 +3676,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 81,
     Incorrectas: 38,
     Porcentaje_Error: "46.91%",
@@ -3685,7 +3685,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 81,
     Incorrectas: 38,
     Porcentaje_Error: "46.91%",
@@ -3694,7 +3694,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 135,
     Incorrectas: 64,
     Porcentaje_Error: "47.41%",
@@ -3703,7 +3703,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 216,
     Incorrectas: 75,
     Porcentaje_Error: "34.72%",
@@ -3730,7 +3730,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 216,
     Incorrectas: 113,
     Porcentaje_Error: "52.31%",
@@ -3739,7 +3739,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 135,
     Incorrectas: 79,
     Porcentaje_Error: "58.52%",
@@ -3748,7 +3748,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 135,
     Incorrectas: 40,
     Porcentaje_Error: "29.63%",
@@ -3757,7 +3757,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 81,
     Incorrectas: 57,
     Porcentaje_Error: "70.37%",
@@ -3766,7 +3766,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 108,
     Incorrectas: 53,
     Porcentaje_Error: "49.07%",
@@ -3775,7 +3775,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - FISICO MATEMATICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 135,
     Incorrectas: 69,
     Porcentaje_Error: "51.11%",
@@ -3820,7 +3820,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 84,
     Incorrectas: 39,
     Porcentaje_Error: "46.43%",
@@ -3829,7 +3829,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 112,
     Incorrectas: 41,
     Porcentaje_Error: "36.61%",
@@ -3838,7 +3838,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 140,
     Incorrectas: 71,
     Porcentaje_Error: "50.71%",
@@ -3847,7 +3847,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 84,
     Incorrectas: 31,
     Porcentaje_Error: "36.9%",
@@ -3856,7 +3856,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 84,
     Incorrectas: 51,
     Porcentaje_Error: "60.71%",
@@ -3865,7 +3865,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 84,
     Incorrectas: 58,
     Porcentaje_Error: "69.05%",
@@ -3874,7 +3874,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 140,
     Incorrectas: 91,
     Porcentaje_Error: "65%",
@@ -3883,7 +3883,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 224,
     Incorrectas: 110,
     Porcentaje_Error: "49.11%",
@@ -3910,7 +3910,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 224,
     Incorrectas: 118,
     Porcentaje_Error: "52.68%",
@@ -3919,7 +3919,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 140,
     Incorrectas: 81,
     Porcentaje_Error: "57.86%",
@@ -3928,7 +3928,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 140,
     Incorrectas: 60,
     Porcentaje_Error: "42.86%",
@@ -3937,7 +3937,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 84,
     Incorrectas: 71,
     Porcentaje_Error: "84.52%",
@@ -3946,7 +3946,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 112,
     Incorrectas: 72,
     Porcentaje_Error: "64.29%",
@@ -3955,7 +3955,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - IDIOMAS (INGLES - FRANCES)",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 140,
     Incorrectas: 86,
     Porcentaje_Error: "61.43%",
@@ -4000,7 +4000,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 99,
     Incorrectas: 59,
     Porcentaje_Error: "59.6%",
@@ -4009,7 +4009,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 132,
     Incorrectas: 56,
     Porcentaje_Error: "42.42%",
@@ -4018,7 +4018,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 165,
     Incorrectas: 92,
     Porcentaje_Error: "55.76%",
@@ -4027,7 +4027,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 99,
     Incorrectas: 40,
     Porcentaje_Error: "40.4%",
@@ -4036,7 +4036,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 99,
     Incorrectas: 59,
     Porcentaje_Error: "59.6%",
@@ -4045,7 +4045,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 99,
     Incorrectas: 67,
     Porcentaje_Error: "67.68%",
@@ -4054,7 +4054,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 165,
     Incorrectas: 97,
     Porcentaje_Error: "58.79%",
@@ -4063,7 +4063,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 264,
     Incorrectas: 135,
     Porcentaje_Error: "51.14%",
@@ -4090,7 +4090,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 264,
     Incorrectas: 157,
     Porcentaje_Error: "59.47%",
@@ -4099,7 +4099,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 165,
     Incorrectas: 98,
     Porcentaje_Error: "59.39%",
@@ -4108,7 +4108,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 165,
     Incorrectas: 65,
     Porcentaje_Error: "39.39%",
@@ -4117,7 +4117,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 99,
     Incorrectas: 72,
     Porcentaje_Error: "72.73%",
@@ -4126,7 +4126,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 132,
     Incorrectas: 82,
     Porcentaje_Error: "62.12%",
@@ -4135,7 +4135,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - INFORMATICA EDUCATIVA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 165,
     Incorrectas: 110,
     Porcentaje_Error: "66.67%",
@@ -4180,7 +4180,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 84,
     Incorrectas: 42,
     Porcentaje_Error: "50%",
@@ -4189,7 +4189,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 112,
     Incorrectas: 38,
     Porcentaje_Error: "33.93%",
@@ -4198,7 +4198,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 140,
     Incorrectas: 67,
     Porcentaje_Error: "47.86%",
@@ -4207,7 +4207,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 84,
     Incorrectas: 25,
     Porcentaje_Error: "29.76%",
@@ -4216,7 +4216,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 84,
     Incorrectas: 34,
     Porcentaje_Error: "40.48%",
@@ -4225,7 +4225,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 84,
     Incorrectas: 56,
     Porcentaje_Error: "66.67%",
@@ -4234,7 +4234,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 140,
     Incorrectas: 70,
     Porcentaje_Error: "50%",
@@ -4243,7 +4243,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 224,
     Incorrectas: 74,
     Porcentaje_Error: "33.04%",
@@ -4270,7 +4270,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 224,
     Incorrectas: 96,
     Porcentaje_Error: "42.86%",
@@ -4279,7 +4279,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 140,
     Incorrectas: 61,
     Porcentaje_Error: "43.57%",
@@ -4288,7 +4288,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 140,
     Incorrectas: 42,
     Porcentaje_Error: "30%",
@@ -4297,7 +4297,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 84,
     Incorrectas: 62,
     Porcentaje_Error: "73.81%",
@@ -4306,7 +4306,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 112,
     Incorrectas: 58,
     Porcentaje_Error: "51.79%",
@@ -4315,7 +4315,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "EDUCACION - LENGUA, LITERATURA, FILOSOFIA Y PSICOLOGIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 140,
     Incorrectas: 82,
     Porcentaje_Error: "58.57%",
@@ -4360,7 +4360,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 603,
     Incorrectas: 207,
     Porcentaje_Error: "34.33%",
@@ -4369,7 +4369,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 268,
     Incorrectas: 93,
     Porcentaje_Error: "34.7%",
@@ -4378,7 +4378,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 335,
     Incorrectas: 154,
     Porcentaje_Error: "45.97%",
@@ -4387,7 +4387,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 201,
     Incorrectas: 60,
     Porcentaje_Error: "29.85%",
@@ -4396,7 +4396,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 201,
     Incorrectas: 90,
     Porcentaje_Error: "44.78%",
@@ -4405,7 +4405,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 335,
     Incorrectas: 107,
     Porcentaje_Error: "31.94%",
@@ -4414,7 +4414,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 268,
     Incorrectas: 94,
     Porcentaje_Error: "35.07%",
@@ -4423,7 +4423,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 335,
     Incorrectas: 76,
     Porcentaje_Error: "22.69%",
@@ -4450,7 +4450,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 268,
     Incorrectas: 74,
     Porcentaje_Error: "27.61%",
@@ -4459,7 +4459,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 201,
     Incorrectas: 63,
     Porcentaje_Error: "31.34%",
@@ -4468,7 +4468,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 268,
     Incorrectas: 79,
     Porcentaje_Error: "29.48%",
@@ -4477,7 +4477,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 402,
     Incorrectas: 111,
     Porcentaje_Error: "27.61%",
@@ -4486,7 +4486,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 268,
     Incorrectas: 100,
     Porcentaje_Error: "37.31%",
@@ -4495,7 +4495,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "ENFERMERIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 335,
     Incorrectas: 116,
     Porcentaje_Error: "34.63%",
@@ -4540,7 +4540,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 78,
     Incorrectas: 44,
     Porcentaje_Error: "56.41%",
@@ -4549,7 +4549,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 104,
     Incorrectas: 38,
     Porcentaje_Error: "36.54%",
@@ -4558,7 +4558,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 130,
     Incorrectas: 89,
     Porcentaje_Error: "68.46%",
@@ -4567,7 +4567,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 78,
     Incorrectas: 38,
     Porcentaje_Error: "48.72%",
@@ -4576,7 +4576,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 78,
     Incorrectas: 37,
     Porcentaje_Error: "47.44%",
@@ -4585,7 +4585,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 78,
     Incorrectas: 54,
     Porcentaje_Error: "69.23%",
@@ -4594,7 +4594,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 130,
     Incorrectas: 71,
     Porcentaje_Error: "54.62%",
@@ -4603,7 +4603,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 208,
     Incorrectas: 104,
     Porcentaje_Error: "50%",
@@ -4630,7 +4630,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 208,
     Incorrectas: 139,
     Porcentaje_Error: "66.83%",
@@ -4639,7 +4639,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 130,
     Incorrectas: 82,
     Porcentaje_Error: "63.08%",
@@ -4648,7 +4648,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 130,
     Incorrectas: 53,
     Porcentaje_Error: "40.77%",
@@ -4657,7 +4657,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 78,
     Incorrectas: 65,
     Porcentaje_Error: "83.33%",
@@ -4666,7 +4666,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 104,
     Incorrectas: 74,
     Porcentaje_Error: "71.15%",
@@ -4675,7 +4675,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FILOSOFIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 130,
     Incorrectas: 89,
     Porcentaje_Error: "68.46%",
@@ -4720,7 +4720,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 168,
     Incorrectas: 71,
     Porcentaje_Error: "42.26%",
@@ -4729,7 +4729,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 224,
     Incorrectas: 91,
     Porcentaje_Error: "40.63%",
@@ -4738,7 +4738,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 280,
     Incorrectas: 135,
     Porcentaje_Error: "48.21%",
@@ -4747,7 +4747,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 168,
     Incorrectas: 42,
     Porcentaje_Error: "25%",
@@ -4756,7 +4756,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 168,
     Incorrectas: 91,
     Porcentaje_Error: "54.17%",
@@ -4765,7 +4765,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 168,
     Incorrectas: 106,
     Porcentaje_Error: "63.1%",
@@ -4774,7 +4774,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 280,
     Incorrectas: 146,
     Porcentaje_Error: "52.14%",
@@ -4783,7 +4783,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 448,
     Incorrectas: 169,
     Porcentaje_Error: "37.72%",
@@ -4810,7 +4810,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 448,
     Incorrectas: 215,
     Porcentaje_Error: "47.99%",
@@ -4819,7 +4819,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 280,
     Incorrectas: 132,
     Porcentaje_Error: "47.14%",
@@ -4828,7 +4828,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 280,
     Incorrectas: 106,
     Porcentaje_Error: "37.86%",
@@ -4837,7 +4837,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 168,
     Incorrectas: 122,
     Porcentaje_Error: "72.62%",
@@ -4846,7 +4846,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 224,
     Incorrectas: 136,
     Porcentaje_Error: "60.71%",
@@ -4855,7 +4855,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "FINANZAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 280,
     Incorrectas: 164,
     Porcentaje_Error: "58.57%",
@@ -4900,7 +4900,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 145,
     Incorrectas: 76,
     Porcentaje_Error: "52.41%",
@@ -4909,7 +4909,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 116,
     Incorrectas: 49,
     Porcentaje_Error: "42.24%",
@@ -4918,7 +4918,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 145,
     Incorrectas: 72,
     Porcentaje_Error: "49.66%",
@@ -4927,7 +4927,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 87,
     Incorrectas: 32,
     Porcentaje_Error: "36.78%",
@@ -4936,7 +4936,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 87,
     Incorrectas: 50,
     Porcentaje_Error: "57.47%",
@@ -4945,7 +4945,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 203,
     Incorrectas: 114,
     Porcentaje_Error: "56.16%",
@@ -4954,7 +4954,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 116,
     Incorrectas: 55,
     Porcentaje_Error: "47.41%",
@@ -4963,7 +4963,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 116,
     Incorrectas: 68,
     Porcentaje_Error: "58.62%",
@@ -4990,7 +4990,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 116,
     Incorrectas: 55,
     Porcentaje_Error: "47.41%",
@@ -4999,7 +4999,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 87,
     Incorrectas: 45,
     Porcentaje_Error: "51.72%",
@@ -5008,7 +5008,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 116,
     Incorrectas: 43,
     Porcentaje_Error: "37.07%",
@@ -5017,7 +5017,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 174,
     Incorrectas: 110,
     Porcentaje_Error: "63.22%",
@@ -5026,7 +5026,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 116,
     Incorrectas: 82,
     Porcentaje_Error: "70.69%",
@@ -5035,7 +5035,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "FISICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 145,
     Incorrectas: 88,
     Porcentaje_Error: "60.69%",
@@ -5080,7 +5080,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 102,
     Incorrectas: 48,
     Porcentaje_Error: "47.06%",
@@ -5089,7 +5089,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 136,
     Incorrectas: 50,
     Porcentaje_Error: "36.76%",
@@ -5098,7 +5098,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 170,
     Incorrectas: 88,
     Porcentaje_Error: "51.76%",
@@ -5107,7 +5107,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 102,
     Incorrectas: 28,
     Porcentaje_Error: "27.45%",
@@ -5116,7 +5116,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 102,
     Incorrectas: 51,
     Porcentaje_Error: "50%",
@@ -5125,7 +5125,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 102,
     Incorrectas: 65,
     Porcentaje_Error: "63.73%",
@@ -5134,7 +5134,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 170,
     Incorrectas: 82,
     Porcentaje_Error: "48.24%",
@@ -5143,7 +5143,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 272,
     Incorrectas: 89,
     Porcentaje_Error: "32.72%",
@@ -5170,7 +5170,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 272,
     Incorrectas: 123,
     Porcentaje_Error: "45.22%",
@@ -5179,7 +5179,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 170,
     Incorrectas: 67,
     Porcentaje_Error: "39.41%",
@@ -5188,7 +5188,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 170,
     Incorrectas: 59,
     Porcentaje_Error: "34.71%",
@@ -5197,7 +5197,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 102,
     Incorrectas: 79,
     Porcentaje_Error: "77.45%",
@@ -5206,7 +5206,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 136,
     Incorrectas: 83,
     Porcentaje_Error: "61.03%",
@@ -5215,7 +5215,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE EMPRESAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 170,
     Incorrectas: 103,
     Porcentaje_Error: "60.59%",
@@ -5260,7 +5260,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 105,
     Incorrectas: 50,
     Porcentaje_Error: "47.62%",
@@ -5269,7 +5269,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 140,
     Incorrectas: 55,
     Porcentaje_Error: "39.29%",
@@ -5278,7 +5278,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 175,
     Incorrectas: 100,
     Porcentaje_Error: "57.14%",
@@ -5287,7 +5287,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 105,
     Incorrectas: 44,
     Porcentaje_Error: "41.9%",
@@ -5296,7 +5296,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 105,
     Incorrectas: 46,
     Porcentaje_Error: "43.81%",
@@ -5305,7 +5305,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 105,
     Incorrectas: 67,
     Porcentaje_Error: "63.81%",
@@ -5314,7 +5314,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 175,
     Incorrectas: 107,
     Porcentaje_Error: "61.14%",
@@ -5323,7 +5323,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 280,
     Incorrectas: 117,
     Porcentaje_Error: "41.79%",
@@ -5350,7 +5350,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 280,
     Incorrectas: 154,
     Porcentaje_Error: "55%",
@@ -5359,7 +5359,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 175,
     Incorrectas: 107,
     Porcentaje_Error: "61.14%",
@@ -5368,7 +5368,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 175,
     Incorrectas: 75,
     Porcentaje_Error: "42.86%",
@@ -5377,7 +5377,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 105,
     Incorrectas: 78,
     Porcentaje_Error: "74.29%",
@@ -5386,7 +5386,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 140,
     Incorrectas: 80,
     Porcentaje_Error: "57.14%",
@@ -5395,7 +5395,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION DE PROYECTOS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 175,
     Incorrectas: 114,
     Porcentaje_Error: "65.14%",
@@ -5440,7 +5440,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 102,
     Incorrectas: 56,
     Porcentaje_Error: "54.9%",
@@ -5449,7 +5449,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 136,
     Incorrectas: 65,
     Porcentaje_Error: "47.79%",
@@ -5458,7 +5458,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 170,
     Incorrectas: 91,
     Porcentaje_Error: "53.53%",
@@ -5467,7 +5467,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 102,
     Incorrectas: 40,
     Porcentaje_Error: "39.22%",
@@ -5476,7 +5476,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 102,
     Incorrectas: 66,
     Porcentaje_Error: "64.71%",
@@ -5485,7 +5485,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 102,
     Incorrectas: 67,
     Porcentaje_Error: "65.69%",
@@ -5494,7 +5494,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 170,
     Incorrectas: 115,
     Porcentaje_Error: "67.65%",
@@ -5503,7 +5503,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 272,
     Incorrectas: 135,
     Porcentaje_Error: "49.63%",
@@ -5530,7 +5530,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 272,
     Incorrectas: 151,
     Porcentaje_Error: "55.51%",
@@ -5539,7 +5539,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 170,
     Incorrectas: 99,
     Porcentaje_Error: "58.24%",
@@ -5548,7 +5548,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 170,
     Incorrectas: 78,
     Porcentaje_Error: "45.88%",
@@ -5557,7 +5557,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 102,
     Incorrectas: 81,
     Porcentaje_Error: "79.41%",
@@ -5566,7 +5566,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 136,
     Incorrectas: 81,
     Porcentaje_Error: "59.56%",
@@ -5575,7 +5575,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "GESTION - GESTION PUBLICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 170,
     Incorrectas: 122,
     Porcentaje_Error: "71.76%",
@@ -5620,7 +5620,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 183,
     Incorrectas: 104,
     Porcentaje_Error: "56.83%",
@@ -5629,7 +5629,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 244,
     Incorrectas: 102,
     Porcentaje_Error: "41.8%",
@@ -5638,7 +5638,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 305,
     Incorrectas: 189,
     Porcentaje_Error: "61.97%",
@@ -5647,7 +5647,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 183,
     Incorrectas: 72,
     Porcentaje_Error: "39.34%",
@@ -5656,7 +5656,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 183,
     Incorrectas: 105,
     Porcentaje_Error: "57.38%",
@@ -5665,7 +5665,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 183,
     Incorrectas: 129,
     Porcentaje_Error: "70.49%",
@@ -5674,7 +5674,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 305,
     Incorrectas: 183,
     Porcentaje_Error: "60%",
@@ -5683,7 +5683,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 488,
     Incorrectas: 215,
     Porcentaje_Error: "44.06%",
@@ -5710,7 +5710,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 488,
     Incorrectas: 292,
     Porcentaje_Error: "59.84%",
@@ -5719,7 +5719,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 305,
     Incorrectas: 183,
     Porcentaje_Error: "60%",
@@ -5728,7 +5728,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 305,
     Incorrectas: 120,
     Porcentaje_Error: "39.34%",
@@ -5737,7 +5737,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 183,
     Incorrectas: 136,
     Porcentaje_Error: "74.32%",
@@ -5746,7 +5746,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 244,
     Incorrectas: 154,
     Porcentaje_Error: "63.11%",
@@ -5755,7 +5755,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "HISTORIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 305,
     Incorrectas: 210,
     Porcentaje_Error: "68.85%",
@@ -5800,7 +5800,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 290,
     Incorrectas: 122,
     Porcentaje_Error: "42.07%",
@@ -5809,7 +5809,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 232,
     Incorrectas: 102,
     Porcentaje_Error: "43.97%",
@@ -5818,7 +5818,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 290,
     Incorrectas: 117,
     Porcentaje_Error: "40.34%",
@@ -5827,7 +5827,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 174,
     Incorrectas: 62,
     Porcentaje_Error: "35.63%",
@@ -5836,7 +5836,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 174,
     Incorrectas: 83,
     Porcentaje_Error: "47.7%",
@@ -5845,7 +5845,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 406,
     Incorrectas: 231,
     Porcentaje_Error: "56.9%",
@@ -5854,7 +5854,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 232,
     Incorrectas: 76,
     Porcentaje_Error: "32.76%",
@@ -5863,7 +5863,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 232,
     Incorrectas: 94,
     Porcentaje_Error: "40.52%",
@@ -5890,7 +5890,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 232,
     Incorrectas: 57,
     Porcentaje_Error: "24.57%",
@@ -5899,7 +5899,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 174,
     Incorrectas: 77,
     Porcentaje_Error: "44.25%",
@@ -5908,7 +5908,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 232,
     Incorrectas: 60,
     Porcentaje_Error: "25.86%",
@@ -5917,7 +5917,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 348,
     Incorrectas: 156,
     Porcentaje_Error: "44.83%",
@@ -5926,7 +5926,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 232,
     Incorrectas: 99,
     Porcentaje_Error: "42.67%",
@@ -5935,7 +5935,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA AMBIENTAL",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 290,
     Incorrectas: 135,
     Porcentaje_Error: "46.55%",
@@ -5980,7 +5980,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 355,
     Incorrectas: 120,
     Porcentaje_Error: "33.8%",
@@ -5989,7 +5989,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 284,
     Incorrectas: 89,
     Porcentaje_Error: "31.34%",
@@ -5998,7 +5998,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 355,
     Incorrectas: 136,
     Porcentaje_Error: "38.31%",
@@ -6007,7 +6007,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 213,
     Incorrectas: 49,
     Porcentaje_Error: "23%",
@@ -6016,7 +6016,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 213,
     Incorrectas: 86,
     Porcentaje_Error: "40.38%",
@@ -6025,7 +6025,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 497,
     Incorrectas: 100,
     Porcentaje_Error: "20.12%",
@@ -6034,7 +6034,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 284,
     Incorrectas: 78,
     Porcentaje_Error: "27.46%",
@@ -6043,7 +6043,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 284,
     Incorrectas: 105,
     Porcentaje_Error: "36.97%",
@@ -6070,7 +6070,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 284,
     Incorrectas: 39,
     Porcentaje_Error: "13.73%",
@@ -6079,7 +6079,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 213,
     Incorrectas: 83,
     Porcentaje_Error: "38.97%",
@@ -6088,7 +6088,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 284,
     Incorrectas: 46,
     Porcentaje_Error: "16.2%",
@@ -6097,7 +6097,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 426,
     Incorrectas: 103,
     Porcentaje_Error: "24.18%",
@@ -6106,7 +6106,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 284,
     Incorrectas: 114,
     Porcentaje_Error: "40.14%",
@@ -6115,7 +6115,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA CIVIL",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 355,
     Incorrectas: 84,
     Porcentaje_Error: "23.66%",
@@ -6160,7 +6160,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 330,
     Incorrectas: 181,
     Porcentaje_Error: "54.85%",
@@ -6169,7 +6169,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 264,
     Incorrectas: 123,
     Porcentaje_Error: "46.59%",
@@ -6178,7 +6178,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 330,
     Incorrectas: 173,
     Porcentaje_Error: "52.42%",
@@ -6187,7 +6187,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 198,
     Incorrectas: 93,
     Porcentaje_Error: "46.97%",
@@ -6196,7 +6196,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 198,
     Incorrectas: 107,
     Porcentaje_Error: "54.04%",
@@ -6205,7 +6205,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 462,
     Incorrectas: 325,
     Porcentaje_Error: "70.35%",
@@ -6214,7 +6214,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 264,
     Incorrectas: 123,
     Porcentaje_Error: "46.59%",
@@ -6223,7 +6223,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 264,
     Incorrectas: 142,
     Porcentaje_Error: "53.79%",
@@ -6250,7 +6250,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 264,
     Incorrectas: 119,
     Porcentaje_Error: "45.08%",
@@ -6259,7 +6259,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 198,
     Incorrectas: 95,
     Porcentaje_Error: "47.98%",
@@ -6268,7 +6268,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 264,
     Incorrectas: 102,
     Porcentaje_Error: "38.64%",
@@ -6277,7 +6277,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 396,
     Incorrectas: 259,
     Porcentaje_Error: "65.4%",
@@ -6286,7 +6286,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 264,
     Incorrectas: 169,
     Porcentaje_Error: "64.02%",
@@ -6295,7 +6295,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MATERIALES",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 330,
     Incorrectas: 200,
     Porcentaje_Error: "60.61%",
@@ -6340,7 +6340,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 270,
     Incorrectas: 98,
     Porcentaje_Error: "36.3%",
@@ -6349,7 +6349,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 216,
     Incorrectas: 89,
     Porcentaje_Error: "41.2%",
@@ -6358,7 +6358,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 270,
     Incorrectas: 122,
     Porcentaje_Error: "45.19%",
@@ -6367,7 +6367,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 162,
     Incorrectas: 37,
     Porcentaje_Error: "22.84%",
@@ -6376,7 +6376,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 162,
     Incorrectas: 77,
     Porcentaje_Error: "47.53%",
@@ -6385,7 +6385,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 378,
     Incorrectas: 134,
     Porcentaje_Error: "35.45%",
@@ -6394,7 +6394,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 216,
     Incorrectas: 60,
     Porcentaje_Error: "27.78%",
@@ -6403,7 +6403,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 216,
     Incorrectas: 86,
     Porcentaje_Error: "39.81%",
@@ -6430,7 +6430,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 216,
     Incorrectas: 58,
     Porcentaje_Error: "26.85%",
@@ -6439,7 +6439,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 162,
     Incorrectas: 68,
     Porcentaje_Error: "41.98%",
@@ -6448,7 +6448,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 216,
     Incorrectas: 59,
     Porcentaje_Error: "27.31%",
@@ -6457,7 +6457,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 324,
     Incorrectas: 125,
     Porcentaje_Error: "38.58%",
@@ -6466,7 +6466,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 216,
     Incorrectas: 92,
     Porcentaje_Error: "42.59%",
@@ -6475,7 +6475,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE MINAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 270,
     Incorrectas: 76,
     Porcentaje_Error: "28.15%",
@@ -6520,7 +6520,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 330,
     Incorrectas: 129,
     Porcentaje_Error: "39.09%",
@@ -6529,7 +6529,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 264,
     Incorrectas: 102,
     Porcentaje_Error: "38.64%",
@@ -6538,7 +6538,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 330,
     Incorrectas: 145,
     Porcentaje_Error: "43.94%",
@@ -6547,7 +6547,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 198,
     Incorrectas: 58,
     Porcentaje_Error: "29.29%",
@@ -6556,7 +6556,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 198,
     Incorrectas: 93,
     Porcentaje_Error: "46.97%",
@@ -6565,7 +6565,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 462,
     Incorrectas: 149,
     Porcentaje_Error: "32.25%",
@@ -6574,7 +6574,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 264,
     Incorrectas: 92,
     Porcentaje_Error: "34.85%",
@@ -6583,7 +6583,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 264,
     Incorrectas: 98,
     Porcentaje_Error: "37.12%",
@@ -6610,7 +6610,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 264,
     Incorrectas: 59,
     Porcentaje_Error: "22.35%",
@@ -6619,7 +6619,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 198,
     Incorrectas: 88,
     Porcentaje_Error: "44.44%",
@@ -6628,7 +6628,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 264,
     Incorrectas: 61,
     Porcentaje_Error: "23.11%",
@@ -6637,7 +6637,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 396,
     Incorrectas: 139,
     Porcentaje_Error: "35.1%",
@@ -6646,7 +6646,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 264,
     Incorrectas: 121,
     Porcentaje_Error: "45.83%",
@@ -6655,7 +6655,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE SISTEMAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 330,
     Incorrectas: 104,
     Porcentaje_Error: "31.52%",
@@ -6700,7 +6700,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 255,
     Incorrectas: 136,
     Porcentaje_Error: "53.33%",
@@ -6709,7 +6709,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 204,
     Incorrectas: 82,
     Porcentaje_Error: "40.2%",
@@ -6718,7 +6718,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 255,
     Incorrectas: 121,
     Porcentaje_Error: "47.45%",
@@ -6727,7 +6727,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 153,
     Incorrectas: 51,
     Porcentaje_Error: "33.33%",
@@ -6736,7 +6736,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 153,
     Incorrectas: 78,
     Porcentaje_Error: "50.98%",
@@ -6745,7 +6745,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 357,
     Incorrectas: 186,
     Porcentaje_Error: "52.1%",
@@ -6754,7 +6754,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 204,
     Incorrectas: 81,
     Porcentaje_Error: "39.71%",
@@ -6763,7 +6763,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 204,
     Incorrectas: 83,
     Porcentaje_Error: "40.69%",
@@ -6790,7 +6790,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 204,
     Incorrectas: 65,
     Porcentaje_Error: "31.86%",
@@ -6799,7 +6799,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 153,
     Incorrectas: 69,
     Porcentaje_Error: "45.1%",
@@ -6808,7 +6808,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 204,
     Incorrectas: 50,
     Porcentaje_Error: "24.51%",
@@ -6817,7 +6817,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 306,
     Incorrectas: 154,
     Porcentaje_Error: "50.33%",
@@ -6826,7 +6826,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 204,
     Incorrectas: 103,
     Porcentaje_Error: "50.49%",
@@ -6835,7 +6835,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA DE TELECOMUNICACIONES",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 255,
     Incorrectas: 129,
     Porcentaje_Error: "50.59%",
@@ -6880,7 +6880,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 405,
     Incorrectas: 204,
     Porcentaje_Error: "50.37%",
@@ -6889,7 +6889,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 324,
     Incorrectas: 147,
     Porcentaje_Error: "45.37%",
@@ -6898,7 +6898,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 405,
     Incorrectas: 197,
     Porcentaje_Error: "48.64%",
@@ -6907,7 +6907,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 243,
     Incorrectas: 85,
     Porcentaje_Error: "34.98%",
@@ -6916,7 +6916,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 243,
     Incorrectas: 119,
     Porcentaje_Error: "48.97%",
@@ -6925,7 +6925,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 567,
     Incorrectas: 278,
     Porcentaje_Error: "49.03%",
@@ -6934,7 +6934,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 324,
     Incorrectas: 105,
     Porcentaje_Error: "32.41%",
@@ -6943,7 +6943,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 324,
     Incorrectas: 128,
     Porcentaje_Error: "39.51%",
@@ -6970,7 +6970,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 324,
     Incorrectas: 114,
     Porcentaje_Error: "35.19%",
@@ -6979,7 +6979,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 243,
     Incorrectas: 119,
     Porcentaje_Error: "48.97%",
@@ -6988,7 +6988,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 324,
     Incorrectas: 105,
     Porcentaje_Error: "32.41%",
@@ -6997,7 +6997,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 486,
     Incorrectas: 255,
     Porcentaje_Error: "52.47%",
@@ -7006,7 +7006,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 324,
     Incorrectas: 171,
     Porcentaje_Error: "52.78%",
@@ -7015,7 +7015,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 405,
     Incorrectas: 203,
     Porcentaje_Error: "50.12%",
@@ -7060,7 +7060,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 445,
     Incorrectas: 221,
     Porcentaje_Error: "49.66%",
@@ -7069,7 +7069,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 356,
     Incorrectas: 134,
     Porcentaje_Error: "37.64%",
@@ -7078,7 +7078,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 445,
     Incorrectas: 199,
     Porcentaje_Error: "44.72%",
@@ -7087,7 +7087,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 267,
     Incorrectas: 100,
     Porcentaje_Error: "37.45%",
@@ -7096,7 +7096,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 267,
     Incorrectas: 135,
     Porcentaje_Error: "50.56%",
@@ -7105,7 +7105,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 623,
     Incorrectas: 278,
     Porcentaje_Error: "44.62%",
@@ -7114,7 +7114,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 356,
     Incorrectas: 120,
     Porcentaje_Error: "33.71%",
@@ -7123,7 +7123,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 356,
     Incorrectas: 129,
     Porcentaje_Error: "36.24%",
@@ -7150,7 +7150,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 356,
     Incorrectas: 139,
     Porcentaje_Error: "39.04%",
@@ -7159,7 +7159,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 267,
     Incorrectas: 109,
     Porcentaje_Error: "40.82%",
@@ -7168,7 +7168,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 356,
     Incorrectas: 101,
     Porcentaje_Error: "28.37%",
@@ -7177,7 +7177,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 534,
     Incorrectas: 257,
     Porcentaje_Error: "48.13%",
@@ -7186,7 +7186,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 356,
     Incorrectas: 185,
     Porcentaje_Error: "51.97%",
@@ -7195,7 +7195,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA ELECTRONICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 445,
     Incorrectas: 214,
     Porcentaje_Error: "48.09%",
@@ -7240,7 +7240,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 210,
     Incorrectas: 115,
     Porcentaje_Error: "54.76%",
@@ -7249,7 +7249,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 168,
     Incorrectas: 66,
     Porcentaje_Error: "39.29%",
@@ -7258,7 +7258,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 210,
     Incorrectas: 106,
     Porcentaje_Error: "50.48%",
@@ -7267,7 +7267,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 126,
     Incorrectas: 66,
     Porcentaje_Error: "52.38%",
@@ -7276,7 +7276,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 126,
     Incorrectas: 75,
     Porcentaje_Error: "59.52%",
@@ -7285,7 +7285,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 294,
     Incorrectas: 190,
     Porcentaje_Error: "64.63%",
@@ -7294,7 +7294,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 168,
     Incorrectas: 76,
     Porcentaje_Error: "45.24%",
@@ -7303,7 +7303,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 168,
     Incorrectas: 91,
     Porcentaje_Error: "54.17%",
@@ -7330,7 +7330,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 168,
     Incorrectas: 73,
     Porcentaje_Error: "43.45%",
@@ -7339,7 +7339,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 126,
     Incorrectas: 69,
     Porcentaje_Error: "54.76%",
@@ -7348,7 +7348,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 168,
     Incorrectas: 59,
     Porcentaje_Error: "35.12%",
@@ -7357,7 +7357,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 252,
     Incorrectas: 163,
     Porcentaje_Error: "64.68%",
@@ -7366,7 +7366,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 168,
     Incorrectas: 110,
     Porcentaje_Error: "65.48%",
@@ -7375,7 +7375,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOFISICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 210,
     Incorrectas: 131,
     Porcentaje_Error: "62.38%",
@@ -7420,7 +7420,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 270,
     Incorrectas: 123,
     Porcentaje_Error: "45.56%",
@@ -7429,7 +7429,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 216,
     Incorrectas: 80,
     Porcentaje_Error: "37.04%",
@@ -7438,7 +7438,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 270,
     Incorrectas: 124,
     Porcentaje_Error: "45.93%",
@@ -7447,7 +7447,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 162,
     Incorrectas: 56,
     Porcentaje_Error: "34.57%",
@@ -7456,7 +7456,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 162,
     Incorrectas: 84,
     Porcentaje_Error: "51.85%",
@@ -7465,7 +7465,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 378,
     Incorrectas: 192,
     Porcentaje_Error: "50.79%",
@@ -7474,7 +7474,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 216,
     Incorrectas: 69,
     Porcentaje_Error: "31.94%",
@@ -7483,7 +7483,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 216,
     Incorrectas: 91,
     Porcentaje_Error: "42.13%",
@@ -7510,7 +7510,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 216,
     Incorrectas: 65,
     Porcentaje_Error: "30.09%",
@@ -7519,7 +7519,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 162,
     Incorrectas: 74,
     Porcentaje_Error: "45.68%",
@@ -7528,7 +7528,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 216,
     Incorrectas: 65,
     Porcentaje_Error: "30.09%",
@@ -7537,7 +7537,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 324,
     Incorrectas: 139,
     Porcentaje_Error: "42.9%",
@@ -7546,7 +7546,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 216,
     Incorrectas: 106,
     Porcentaje_Error: "49.07%",
@@ -7555,7 +7555,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA GEOLOGICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 270,
     Incorrectas: 146,
     Porcentaje_Error: "54.07%",
@@ -7600,7 +7600,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 530,
     Incorrectas: 214,
     Porcentaje_Error: "40.38%",
@@ -7609,7 +7609,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 424,
     Incorrectas: 165,
     Porcentaje_Error: "38.92%",
@@ -7618,7 +7618,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 530,
     Incorrectas: 224,
     Porcentaje_Error: "42.26%",
@@ -7627,7 +7627,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 318,
     Incorrectas: 89,
     Porcentaje_Error: "27.99%",
@@ -7636,7 +7636,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 318,
     Incorrectas: 137,
     Porcentaje_Error: "43.08%",
@@ -7645,7 +7645,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 742,
     Incorrectas: 274,
     Porcentaje_Error: "36.93%",
@@ -7654,7 +7654,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 424,
     Incorrectas: 122,
     Porcentaje_Error: "28.77%",
@@ -7663,7 +7663,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 424,
     Incorrectas: 138,
     Porcentaje_Error: "32.55%",
@@ -7690,7 +7690,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 424,
     Incorrectas: 87,
     Porcentaje_Error: "20.52%",
@@ -7699,7 +7699,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 318,
     Incorrectas: 127,
     Porcentaje_Error: "39.94%",
@@ -7708,7 +7708,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 424,
     Incorrectas: 110,
     Porcentaje_Error: "25.94%",
@@ -7717,7 +7717,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 636,
     Incorrectas: 222,
     Porcentaje_Error: "34.91%",
@@ -7726,7 +7726,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 424,
     Incorrectas: 174,
     Porcentaje_Error: "41.04%",
@@ -7735,7 +7735,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAL",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 530,
     Incorrectas: 190,
     Porcentaje_Error: "35.85%",
@@ -7780,7 +7780,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 470,
     Incorrectas: 259,
     Porcentaje_Error: "55.11%",
@@ -7789,7 +7789,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 376,
     Incorrectas: 155,
     Porcentaje_Error: "41.22%",
@@ -7798,7 +7798,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 470,
     Incorrectas: 222,
     Porcentaje_Error: "47.23%",
@@ -7807,7 +7807,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 282,
     Incorrectas: 105,
     Porcentaje_Error: "37.23%",
@@ -7816,7 +7816,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 282,
     Incorrectas: 152,
     Porcentaje_Error: "53.9%",
@@ -7825,7 +7825,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 658,
     Incorrectas: 454,
     Porcentaje_Error: "69%",
@@ -7834,7 +7834,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 376,
     Incorrectas: 165,
     Porcentaje_Error: "43.88%",
@@ -7843,7 +7843,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 376,
     Incorrectas: 177,
     Porcentaje_Error: "47.07%",
@@ -7870,7 +7870,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 376,
     Incorrectas: 142,
     Porcentaje_Error: "37.77%",
@@ -7879,7 +7879,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 282,
     Incorrectas: 131,
     Porcentaje_Error: "46.45%",
@@ -7888,7 +7888,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 376,
     Incorrectas: 119,
     Porcentaje_Error: "31.65%",
@@ -7897,7 +7897,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 564,
     Incorrectas: 339,
     Porcentaje_Error: "60.11%",
@@ -7906,7 +7906,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 376,
     Incorrectas: 234,
     Porcentaje_Error: "62.23%",
@@ -7915,7 +7915,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA INDUSTRIAS ALIMENTARIAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 470,
     Incorrectas: 305,
     Porcentaje_Error: "64.89%",
@@ -7960,7 +7960,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 475,
     Incorrectas: 201,
     Porcentaje_Error: "42.32%",
@@ -7969,7 +7969,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 380,
     Incorrectas: 157,
     Porcentaje_Error: "41.32%",
@@ -7978,7 +7978,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 475,
     Incorrectas: 223,
     Porcentaje_Error: "46.95%",
@@ -7987,7 +7987,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 285,
     Incorrectas: 98,
     Porcentaje_Error: "34.39%",
@@ -7996,7 +7996,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 285,
     Incorrectas: 140,
     Porcentaje_Error: "49.12%",
@@ -8005,7 +8005,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 665,
     Incorrectas: 227,
     Porcentaje_Error: "34.14%",
@@ -8014,7 +8014,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 380,
     Incorrectas: 127,
     Porcentaje_Error: "33.42%",
@@ -8023,7 +8023,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 380,
     Incorrectas: 139,
     Porcentaje_Error: "36.58%",
@@ -8050,7 +8050,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 380,
     Incorrectas: 104,
     Porcentaje_Error: "27.37%",
@@ -8059,7 +8059,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 285,
     Incorrectas: 114,
     Porcentaje_Error: "40%",
@@ -8068,7 +8068,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 380,
     Incorrectas: 107,
     Porcentaje_Error: "28.16%",
@@ -8077,7 +8077,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 570,
     Incorrectas: 213,
     Porcentaje_Error: "37.37%",
@@ -8086,7 +8086,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 380,
     Incorrectas: 179,
     Porcentaje_Error: "47.11%",
@@ -8095,7 +8095,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA MECANICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 475,
     Incorrectas: 169,
     Porcentaje_Error: "35.58%",
@@ -8140,7 +8140,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 335,
     Incorrectas: 154,
     Porcentaje_Error: "45.97%",
@@ -8149,7 +8149,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 268,
     Incorrectas: 107,
     Porcentaje_Error: "39.93%",
@@ -8158,7 +8158,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 335,
     Incorrectas: 173,
     Porcentaje_Error: "51.64%",
@@ -8167,7 +8167,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 201,
     Incorrectas: 72,
     Porcentaje_Error: "35.82%",
@@ -8176,7 +8176,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 201,
     Incorrectas: 94,
     Porcentaje_Error: "46.77%",
@@ -8185,7 +8185,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 469,
     Incorrectas: 256,
     Porcentaje_Error: "54.58%",
@@ -8194,7 +8194,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 268,
     Incorrectas: 112,
     Porcentaje_Error: "41.79%",
@@ -8203,7 +8203,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 268,
     Incorrectas: 115,
     Porcentaje_Error: "42.91%",
@@ -8230,7 +8230,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 268,
     Incorrectas: 74,
     Porcentaje_Error: "27.61%",
@@ -8239,7 +8239,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 201,
     Incorrectas: 89,
     Porcentaje_Error: "44.28%",
@@ -8248,7 +8248,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 268,
     Incorrectas: 73,
     Porcentaje_Error: "27.24%",
@@ -8257,7 +8257,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 402,
     Incorrectas: 190,
     Porcentaje_Error: "47.26%",
@@ -8266,7 +8266,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 268,
     Incorrectas: 154,
     Porcentaje_Error: "57.46%",
@@ -8275,7 +8275,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA METALURGICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 335,
     Incorrectas: 176,
     Porcentaje_Error: "52.54%",
@@ -8320,7 +8320,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 330,
     Incorrectas: 196,
     Porcentaje_Error: "59.39%",
@@ -8329,7 +8329,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 264,
     Incorrectas: 123,
     Porcentaje_Error: "46.59%",
@@ -8338,7 +8338,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 330,
     Incorrectas: 158,
     Porcentaje_Error: "47.88%",
@@ -8347,7 +8347,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 198,
     Incorrectas: 96,
     Porcentaje_Error: "48.48%",
@@ -8356,7 +8356,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 198,
     Incorrectas: 138,
     Porcentaje_Error: "69.7%",
@@ -8365,7 +8365,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 462,
     Incorrectas: 353,
     Porcentaje_Error: "76.41%",
@@ -8374,7 +8374,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 264,
     Incorrectas: 154,
     Porcentaje_Error: "58.33%",
@@ -8383,7 +8383,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 264,
     Incorrectas: 157,
     Porcentaje_Error: "59.47%",
@@ -8410,7 +8410,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 264,
     Incorrectas: 143,
     Porcentaje_Error: "54.17%",
@@ -8419,7 +8419,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 198,
     Incorrectas: 119,
     Porcentaje_Error: "60.1%",
@@ -8428,7 +8428,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 264,
     Incorrectas: 115,
     Porcentaje_Error: "43.56%",
@@ -8437,7 +8437,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 396,
     Incorrectas: 284,
     Porcentaje_Error: "71.72%",
@@ -8446,7 +8446,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 264,
     Incorrectas: 194,
     Porcentaje_Error: "73.48%",
@@ -8455,7 +8455,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA PESQUERA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 330,
     Incorrectas: 244,
     Porcentaje_Error: "73.94%",
@@ -8500,7 +8500,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 450,
     Incorrectas: 213,
     Porcentaje_Error: "47.33%",
@@ -8509,7 +8509,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 360,
     Incorrectas: 147,
     Porcentaje_Error: "40.83%",
@@ -8518,7 +8518,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 450,
     Incorrectas: 198,
     Porcentaje_Error: "44%",
@@ -8527,7 +8527,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 270,
     Incorrectas: 109,
     Porcentaje_Error: "40.37%",
@@ -8536,7 +8536,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 270,
     Incorrectas: 139,
     Porcentaje_Error: "51.48%",
@@ -8545,7 +8545,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 630,
     Incorrectas: 364,
     Porcentaje_Error: "57.78%",
@@ -8554,7 +8554,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 360,
     Incorrectas: 139,
     Porcentaje_Error: "38.61%",
@@ -8563,7 +8563,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 360,
     Incorrectas: 162,
     Porcentaje_Error: "45%",
@@ -8590,7 +8590,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 360,
     Incorrectas: 114,
     Porcentaje_Error: "31.67%",
@@ -8599,7 +8599,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 270,
     Incorrectas: 127,
     Porcentaje_Error: "47.04%",
@@ -8608,7 +8608,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 360,
     Incorrectas: 126,
     Porcentaje_Error: "35%",
@@ -8617,7 +8617,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 540,
     Incorrectas: 245,
     Porcentaje_Error: "45.37%",
@@ -8626,7 +8626,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 360,
     Incorrectas: 191,
     Porcentaje_Error: "53.06%",
@@ -8635,7 +8635,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA QUIMICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 450,
     Incorrectas: 254,
     Porcentaje_Error: "56.44%",
@@ -8680,7 +8680,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 135,
     Incorrectas: 67,
     Porcentaje_Error: "49.63%",
@@ -8689,7 +8689,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 108,
     Incorrectas: 47,
     Porcentaje_Error: "43.52%",
@@ -8698,7 +8698,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 135,
     Incorrectas: 67,
     Porcentaje_Error: "49.63%",
@@ -8707,7 +8707,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 81,
     Incorrectas: 30,
     Porcentaje_Error: "37.04%",
@@ -8716,7 +8716,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 81,
     Incorrectas: 46,
     Porcentaje_Error: "56.79%",
@@ -8725,7 +8725,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 189,
     Incorrectas: 107,
     Porcentaje_Error: "56.61%",
@@ -8734,7 +8734,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 108,
     Incorrectas: 38,
     Porcentaje_Error: "35.19%",
@@ -8743,7 +8743,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 108,
     Incorrectas: 48,
     Porcentaje_Error: "44.44%",
@@ -8770,7 +8770,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 108,
     Incorrectas: 34,
     Porcentaje_Error: "31.48%",
@@ -8779,7 +8779,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 81,
     Incorrectas: 34,
     Porcentaje_Error: "41.98%",
@@ -8788,7 +8788,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 108,
     Incorrectas: 39,
     Porcentaje_Error: "36.11%",
@@ -8797,7 +8797,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 162,
     Incorrectas: 82,
     Porcentaje_Error: "50.62%",
@@ -8806,7 +8806,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 108,
     Incorrectas: 60,
     Porcentaje_Error: "55.56%",
@@ -8815,7 +8815,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "INGENIERIA SANITARIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 135,
     Incorrectas: 71,
     Porcentaje_Error: "52.59%",
@@ -8860,7 +8860,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 210,
     Incorrectas: 104,
     Porcentaje_Error: "49.52%",
@@ -8869,7 +8869,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 280,
     Incorrectas: 96,
     Porcentaje_Error: "34.29%",
@@ -8878,7 +8878,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 350,
     Incorrectas: 201,
     Porcentaje_Error: "57.43%",
@@ -8887,7 +8887,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 210,
     Incorrectas: 97,
     Porcentaje_Error: "46.19%",
@@ -8896,7 +8896,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 210,
     Incorrectas: 110,
     Porcentaje_Error: "52.38%",
@@ -8905,7 +8905,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 210,
     Incorrectas: 148,
     Porcentaje_Error: "70.48%",
@@ -8914,7 +8914,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 350,
     Incorrectas: 211,
     Porcentaje_Error: "60.29%",
@@ -8923,7 +8923,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 560,
     Incorrectas: 279,
     Porcentaje_Error: "49.82%",
@@ -8950,7 +8950,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 560,
     Incorrectas: 329,
     Porcentaje_Error: "58.75%",
@@ -8959,7 +8959,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 350,
     Incorrectas: 201,
     Porcentaje_Error: "57.43%",
@@ -8968,7 +8968,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 350,
     Incorrectas: 140,
     Porcentaje_Error: "40%",
@@ -8977,7 +8977,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 210,
     Incorrectas: 161,
     Porcentaje_Error: "76.67%",
@@ -8986,7 +8986,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 280,
     Incorrectas: 189,
     Porcentaje_Error: "67.5%",
@@ -8995,7 +8995,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "LITERATURA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 350,
     Incorrectas: 241,
     Porcentaje_Error: "68.86%",
@@ -9040,7 +9040,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 114,
     Incorrectas: 49,
     Porcentaje_Error: "42.98%",
@@ -9049,7 +9049,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 152,
     Incorrectas: 59,
     Porcentaje_Error: "38.82%",
@@ -9058,7 +9058,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 190,
     Incorrectas: 99,
     Porcentaje_Error: "52.11%",
@@ -9067,7 +9067,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 114,
     Incorrectas: 35,
     Porcentaje_Error: "30.7%",
@@ -9076,7 +9076,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 114,
     Incorrectas: 46,
     Porcentaje_Error: "40.35%",
@@ -9085,7 +9085,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 114,
     Incorrectas: 71,
     Porcentaje_Error: "62.28%",
@@ -9094,7 +9094,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 190,
     Incorrectas: 79,
     Porcentaje_Error: "41.58%",
@@ -9103,7 +9103,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 304,
     Incorrectas: 111,
     Porcentaje_Error: "36.51%",
@@ -9130,7 +9130,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 304,
     Incorrectas: 114,
     Porcentaje_Error: "37.5%",
@@ -9139,7 +9139,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 190,
     Incorrectas: 81,
     Porcentaje_Error: "42.63%",
@@ -9148,7 +9148,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 190,
     Incorrectas: 51,
     Porcentaje_Error: "26.84%",
@@ -9157,7 +9157,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 114,
     Incorrectas: 77,
     Porcentaje_Error: "67.54%",
@@ -9166,7 +9166,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 152,
     Incorrectas: 77,
     Porcentaje_Error: "50.66%",
@@ -9175,7 +9175,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "MARKETING",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 190,
     Incorrectas: 105,
     Porcentaje_Error: "55.26%",
@@ -9220,7 +9220,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 275,
     Incorrectas: 178,
     Porcentaje_Error: "64.73%",
@@ -9229,7 +9229,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 220,
     Incorrectas: 114,
     Porcentaje_Error: "51.82%",
@@ -9238,7 +9238,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 275,
     Incorrectas: 153,
     Porcentaje_Error: "55.64%",
@@ -9247,7 +9247,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 165,
     Incorrectas: 78,
     Porcentaje_Error: "47.27%",
@@ -9256,7 +9256,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 165,
     Incorrectas: 95,
     Porcentaje_Error: "57.58%",
@@ -9265,7 +9265,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 385,
     Incorrectas: 280,
     Porcentaje_Error: "72.73%",
@@ -9274,7 +9274,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 220,
     Incorrectas: 118,
     Porcentaje_Error: "53.64%",
@@ -9283,7 +9283,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 220,
     Incorrectas: 120,
     Porcentaje_Error: "54.55%",
@@ -9310,7 +9310,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 220,
     Incorrectas: 114,
     Porcentaje_Error: "51.82%",
@@ -9319,7 +9319,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 165,
     Incorrectas: 105,
     Porcentaje_Error: "63.64%",
@@ -9328,7 +9328,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 220,
     Incorrectas: 91,
     Porcentaje_Error: "41.36%",
@@ -9337,7 +9337,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 330,
     Incorrectas: 214,
     Porcentaje_Error: "64.85%",
@@ -9346,7 +9346,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 220,
     Incorrectas: 144,
     Porcentaje_Error: "65.45%",
@@ -9355,7 +9355,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "MATEMATICAS",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 275,
     Incorrectas: 179,
     Porcentaje_Error: "65.09%",
@@ -9400,7 +9400,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 540,
     Incorrectas: 78,
     Porcentaje_Error: "14.44%",
@@ -9409,7 +9409,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 240,
     Incorrectas: 64,
     Porcentaje_Error: "26.67%",
@@ -9418,7 +9418,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 300,
     Incorrectas: 115,
     Porcentaje_Error: "38.33%",
@@ -9427,7 +9427,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 180,
     Incorrectas: 34,
     Porcentaje_Error: "18.89%",
@@ -9436,7 +9436,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 180,
     Incorrectas: 51,
     Porcentaje_Error: "28.33%",
@@ -9445,7 +9445,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 300,
     Incorrectas: 25,
     Porcentaje_Error: "8.33%",
@@ -9454,7 +9454,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 240,
     Incorrectas: 33,
     Porcentaje_Error: "13.75%",
@@ -9463,7 +9463,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 300,
     Incorrectas: 20,
     Porcentaje_Error: "6.67%",
@@ -9490,7 +9490,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 240,
     Incorrectas: 27,
     Porcentaje_Error: "11.25%",
@@ -9499,7 +9499,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 180,
     Incorrectas: 38,
     Porcentaje_Error: "21.11%",
@@ -9508,7 +9508,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 240,
     Incorrectas: 40,
     Porcentaje_Error: "16.67%",
@@ -9517,7 +9517,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 360,
     Incorrectas: 34,
     Porcentaje_Error: "9.44%",
@@ -9526,7 +9526,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 240,
     Incorrectas: 44,
     Porcentaje_Error: "18.33%",
@@ -9535,7 +9535,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "BIOMEDICAS",
     Carrera: "MEDICINA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 300,
     Incorrectas: 28,
     Porcentaje_Error: "9.33%",
@@ -9580,7 +9580,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 420,
     Incorrectas: 135,
     Porcentaje_Error: "32.14%",
@@ -9589,7 +9589,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 560,
     Incorrectas: 192,
     Porcentaje_Error: "34.29%",
@@ -9598,7 +9598,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 700,
     Incorrectas: 297,
     Porcentaje_Error: "42.43%",
@@ -9607,7 +9607,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 420,
     Incorrectas: 102,
     Porcentaje_Error: "24.29%",
@@ -9616,7 +9616,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 420,
     Incorrectas: 124,
     Porcentaje_Error: "29.52%",
@@ -9625,7 +9625,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 420,
     Incorrectas: 222,
     Porcentaje_Error: "52.86%",
@@ -9634,7 +9634,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 700,
     Incorrectas: 240,
     Porcentaje_Error: "34.29%",
@@ -9643,7 +9643,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 1120,
     Incorrectas: 267,
     Porcentaje_Error: "23.84%",
@@ -9670,7 +9670,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 1120,
     Incorrectas: 376,
     Porcentaje_Error: "33.57%",
@@ -9679,7 +9679,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 700,
     Incorrectas: 222,
     Porcentaje_Error: "31.71%",
@@ -9688,7 +9688,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 700,
     Incorrectas: 164,
     Porcentaje_Error: "23.43%",
@@ -9697,7 +9697,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 420,
     Incorrectas: 253,
     Porcentaje_Error: "60.24%",
@@ -9706,7 +9706,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 560,
     Incorrectas: 237,
     Porcentaje_Error: "42.32%",
@@ -9715,7 +9715,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "PSICOLOGIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 700,
     Incorrectas: 320,
     Porcentaje_Error: "45.71%",
@@ -9760,7 +9760,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 260,
     Incorrectas: 168,
     Porcentaje_Error: "64.62%",
@@ -9769,7 +9769,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 208,
     Incorrectas: 98,
     Porcentaje_Error: "47.12%",
@@ -9778,7 +9778,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 260,
     Incorrectas: 126,
     Porcentaje_Error: "48.46%",
@@ -9787,7 +9787,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 156,
     Incorrectas: 66,
     Porcentaje_Error: "42.31%",
@@ -9796,7 +9796,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 156,
     Incorrectas: 103,
     Porcentaje_Error: "66.03%",
@@ -9805,7 +9805,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 364,
     Incorrectas: 264,
     Porcentaje_Error: "72.53%",
@@ -9814,7 +9814,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 208,
     Incorrectas: 115,
     Porcentaje_Error: "55.29%",
@@ -9823,7 +9823,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 208,
     Incorrectas: 113,
     Porcentaje_Error: "54.33%",
@@ -9850,7 +9850,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 208,
     Incorrectas: 104,
     Porcentaje_Error: "50%",
@@ -9859,7 +9859,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 156,
     Incorrectas: 96,
     Porcentaje_Error: "61.54%",
@@ -9868,7 +9868,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 208,
     Incorrectas: 90,
     Porcentaje_Error: "43.27%",
@@ -9877,7 +9877,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 312,
     Incorrectas: 205,
     Porcentaje_Error: "65.71%",
@@ -9886,7 +9886,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 208,
     Incorrectas: 147,
     Porcentaje_Error: "70.67%",
@@ -9895,7 +9895,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "INGENIERIAS",
     Carrera: "QUIMICA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 260,
     Incorrectas: 185,
     Porcentaje_Error: "71.15%",
@@ -9940,7 +9940,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 600,
     Incorrectas: 279,
     Porcentaje_Error: "46.5%",
@@ -9949,7 +9949,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 800,
     Incorrectas: 291,
     Porcentaje_Error: "36.38%",
@@ -9958,7 +9958,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 1000,
     Incorrectas: 523,
     Porcentaje_Error: "52.3%",
@@ -9967,7 +9967,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 600,
     Incorrectas: 238,
     Porcentaje_Error: "39.67%",
@@ -9976,7 +9976,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 600,
     Incorrectas: 331,
     Porcentaje_Error: "55.17%",
@@ -9985,7 +9985,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 600,
     Incorrectas: 410,
     Porcentaje_Error: "68.33%",
@@ -9994,7 +9994,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 1000,
     Incorrectas: 580,
     Porcentaje_Error: "58%",
@@ -10003,7 +10003,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 1600,
     Incorrectas: 717,
     Porcentaje_Error: "44.81%",
@@ -10030,7 +10030,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 1600,
     Incorrectas: 842,
     Porcentaje_Error: "52.63%",
@@ -10039,7 +10039,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 1000,
     Incorrectas: 506,
     Porcentaje_Error: "50.6%",
@@ -10048,7 +10048,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 1000,
     Incorrectas: 405,
     Porcentaje_Error: "40.5%",
@@ -10057,7 +10057,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 600,
     Incorrectas: 457,
     Porcentaje_Error: "76.17%",
@@ -10066,7 +10066,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 800,
     Incorrectas: 485,
     Porcentaje_Error: "60.63%",
@@ -10075,7 +10075,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "RELACIONES INDUSTRIALES",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 1000,
     Incorrectas: 640,
     Porcentaje_Error: "64%",
@@ -10120,7 +10120,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 186,
     Incorrectas: 91,
     Porcentaje_Error: "48.92%",
@@ -10129,7 +10129,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 248,
     Incorrectas: 98,
     Porcentaje_Error: "39.52%",
@@ -10138,7 +10138,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 310,
     Incorrectas: 166,
     Porcentaje_Error: "53.55%",
@@ -10147,7 +10147,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 186,
     Incorrectas: 64,
     Porcentaje_Error: "34.41%",
@@ -10156,7 +10156,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 186,
     Incorrectas: 98,
     Porcentaje_Error: "52.69%",
@@ -10165,7 +10165,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 186,
     Incorrectas: 128,
     Porcentaje_Error: "68.82%",
@@ -10174,7 +10174,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 310,
     Incorrectas: 172,
     Porcentaje_Error: "55.48%",
@@ -10183,7 +10183,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 496,
     Incorrectas: 222,
     Porcentaje_Error: "44.76%",
@@ -10210,7 +10210,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 496,
     Incorrectas: 287,
     Porcentaje_Error: "57.86%",
@@ -10219,7 +10219,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 310,
     Incorrectas: 170,
     Porcentaje_Error: "54.84%",
@@ -10228,7 +10228,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 310,
     Incorrectas: 117,
     Porcentaje_Error: "37.74%",
@@ -10237,7 +10237,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 186,
     Incorrectas: 137,
     Porcentaje_Error: "73.66%",
@@ -10246,7 +10246,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 248,
     Incorrectas: 157,
     Porcentaje_Error: "63.31%",
@@ -10255,7 +10255,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "SOCIOLOGIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 310,
     Incorrectas: 216,
     Porcentaje_Error: "69.68%",
@@ -10300,7 +10300,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 192,
     Incorrectas: 79,
     Porcentaje_Error: "41.15%",
@@ -10309,7 +10309,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 256,
     Incorrectas: 99,
     Porcentaje_Error: "38.67%",
@@ -10318,7 +10318,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 320,
     Incorrectas: 142,
     Porcentaje_Error: "44.38%",
@@ -10327,7 +10327,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 192,
     Incorrectas: 58,
     Porcentaje_Error: "30.21%",
@@ -10336,7 +10336,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 192,
     Incorrectas: 89,
     Porcentaje_Error: "46.35%",
@@ -10345,7 +10345,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 192,
     Incorrectas: 129,
     Porcentaje_Error: "67.19%",
@@ -10354,7 +10354,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 320,
     Incorrectas: 159,
     Porcentaje_Error: "49.69%",
@@ -10363,7 +10363,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 512,
     Incorrectas: 178,
     Porcentaje_Error: "34.77%",
@@ -10390,7 +10390,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 512,
     Incorrectas: 219,
     Porcentaje_Error: "42.77%",
@@ -10399,7 +10399,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 320,
     Incorrectas: 138,
     Porcentaje_Error: "43.13%",
@@ -10408,7 +10408,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 320,
     Incorrectas: 112,
     Porcentaje_Error: "35%",
@@ -10417,7 +10417,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 192,
     Incorrectas: 130,
     Porcentaje_Error: "67.71%",
@@ -10426,7 +10426,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 256,
     Incorrectas: 143,
     Porcentaje_Error: "55.86%",
@@ -10435,7 +10435,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TRABAJO SOCIAL",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 320,
     Incorrectas: 203,
     Porcentaje_Error: "63.44%",
@@ -10480,7 +10480,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Biologia - Biologia",
+    Curso: "Biologia ",
     Total_Preguntas: 192,
     Incorrectas: 103,
     Porcentaje_Error: "53.65%",
@@ -10489,7 +10489,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Raz.Verbal - Raz.Verbal",
+    Curso: "Razonamiento Verbal",
     Total_Preguntas: 256,
     Incorrectas: 106,
     Porcentaje_Error: "41.41%",
@@ -10498,7 +10498,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Raz.Verbal - Comprension Lectora",
+    Curso: "Comprension Lectora",
     Total_Preguntas: 320,
     Incorrectas: 156,
     Porcentaje_Error: "48.75%",
@@ -10507,7 +10507,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Educacion Civica - Educacion Civica",
+    Curso: "Educacion Civica",
     Total_Preguntas: 192,
     Incorrectas: 68,
     Porcentaje_Error: "35.42%",
@@ -10516,7 +10516,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Filosofia - Filosofia",
+    Curso: "Filosofia",
     Total_Preguntas: 192,
     Incorrectas: 99,
     Porcentaje_Error: "51.56%",
@@ -10525,7 +10525,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Fisica - Fisica",
+    Curso: "Fisica",
     Total_Preguntas: 192,
     Incorrectas: 133,
     Porcentaje_Error: "69.27%",
@@ -10534,7 +10534,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Geografia - Geografia",
+    Curso: "Geografia",
     Total_Preguntas: 320,
     Incorrectas: 164,
     Porcentaje_Error: "51.25%",
@@ -10543,7 +10543,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Historia - Historia",
+    Curso: "Historia",
     Total_Preguntas: 512,
     Incorrectas: 223,
     Porcentaje_Error: "43.55%",
@@ -10570,7 +10570,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Lenguaje - Lenguaje",
+    Curso: "Lenguaje",
     Total_Preguntas: 512,
     Incorrectas: 230,
     Porcentaje_Error: "44.92%",
@@ -10579,7 +10579,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Literatura - Literatura",
+    Curso: "Literatura",
     Total_Preguntas: 320,
     Incorrectas: 145,
     Porcentaje_Error: "45.31%",
@@ -10588,7 +10588,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Psicologia - Psicologia",
+    Curso: "Psicologia",
     Total_Preguntas: 320,
     Incorrectas: 131,
     Porcentaje_Error: "40.94%",
@@ -10597,7 +10597,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Quimica - Quimica",
+    Curso: "Quimica",
     Total_Preguntas: 192,
     Incorrectas: 137,
     Porcentaje_Error: "71.35%",
@@ -10606,7 +10606,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Raz.Lógico - Raz Logico",
+    Curso: "Razonamiento Lógico",
     Total_Preguntas: 256,
     Incorrectas: 150,
     Porcentaje_Error: "58.59%",
@@ -10615,7 +10615,7 @@ export const coursesData: CourseData[] = [
   {
     Area: "SOCIALES",
     Carrera: "TURISMO Y HOTELERIA",
-    Curso: "Raz.Matematico - Raz.Matematico",
+    Curso: "Razonamiento Matematico",
     Total_Preguntas: 320,
     Incorrectas: 202,
     Porcentaje_Error: "63.13%",
